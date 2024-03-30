@@ -79,7 +79,7 @@ export default async function MainLayout({
         <Script
           strategy="lazyOnload"
           src="https://umami.neeshsamsi.com/script.js"
-          data-website-id="01acb274-4206-4a06-a2f7-3e15a480b2fb"
+          data-website-id="7138dd24-bcab-45ab-a5cb-5da110afa793"
         />
       )}
 
